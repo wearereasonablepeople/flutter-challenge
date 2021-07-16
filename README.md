@@ -18,7 +18,7 @@ feel free to add additional functionality or design.
 
 # Technical Requirements
 
-Create an Flutter applicaction which runs in the browser and satisfies the following requirements:
+Create an Flutter application which runs in the browser and satisfies the following requirements:
 
 * Two or more distinct widgets demonstrating widgets hierarchy
 * A state management layer (feel free to use BLoC, Redux, InheritedWigets or something else...)
